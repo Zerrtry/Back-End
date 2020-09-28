@@ -24,7 +24,8 @@ const usersSchema = new Schema({
     city: String,
     matchesYes: [],
     matchesNo: [],
-    date: { type: Date, default: Date.now }
+    date: { type: Date, default: Date.now },
+    ipAddress: String
   }
 });
 
