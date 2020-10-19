@@ -1,5 +1,9 @@
 # Front-End - Canine-Cupid-2-0
+
+Check if server is answering [here.](http://canine-cupid-v2.herokuapp.com/status)
+
 See the website [here.](http://canine-cupid-2-0.s3-website.us-east-2.amazonaws.com)
+
 
 # Canine-Cupid-2-0-Solutions
 ![Github Badge](https://img.shields.io/github/languages/top/zerrtry/Canine-Cupid-2-0-Front-End)
